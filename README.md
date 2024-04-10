@@ -9,8 +9,10 @@ Get the NHSCYPAA XXIV App!
 - Get on-the-hour schedule notifications
 - Chat with other YPAA directly in the app
 - Explore NHSCYPAA
-- Program *Hotel
-- Workshops *Panels
+- - Program
+  - Hotel
+  - Workshops
+  - Panels
 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="30%"/>
