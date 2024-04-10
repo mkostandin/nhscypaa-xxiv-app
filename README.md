@@ -13,7 +13,7 @@ Get the NHSCYPAA XXIV App!
 *Workshops *Panels
 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="40%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="30%"/>
 </p>
 
 <a href="https://www.bring-necypaa-to-nh.org" target="_blank">Live Demo</a> <br>
