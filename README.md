@@ -18,8 +18,7 @@ Get the NHSCYPAA XXIV App!
 <img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="30%"/>
 </p>
 
-<a href="https://www.bring-necypaa-to-nh.org" target="_blank">Live Demo</a> <br>
-<a href="https://youtu.be/cJE5qA_ihGk" target="_blank">Official Trailer</a>
+<a href="https://www.youtube.com/watch?v=-JZpr1r3hI8" target="_blank">Private Release Trailer</a>
 ## Features
 
 - Cross-platform
