@@ -29,9 +29,8 @@ A collaborative map of YPAA events throughout New England
 
 
 ## 🔗 Store Links
-- [App Store](https://apps.apple.com/us/app/necyverse-nh-bid-for-necypaa/id6450375940)
-- [Google Play Store](https://play.google.com/store/apps/details?id=org.bring_necypaa_to_nh.www.twa)
-- [Microsoft Store](https://apps.microsoft.com/detail/9pkp513837zk?rtc=1&hl=en-us&gl=US)
+- [App Store](https://apps.apple.com/us/app/nhscypaa-xxiv/id6478572035)
+- [Google Play Store](https://play.google.com/store/apps/details?id=www.nhscypaaxxiv.org)
 
 ## Tech Stack
 
