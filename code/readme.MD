@@ -36,6 +36,8 @@ A switch node was made using a csv file of the schedule where 85 cases broke up 
 <img src="https://github.com/mkostandin/mkostandin/blob/main/cloud-message-example-firestore.png" style="display:block;margin:auto;" alt="Cloud Message Example" width="50%"/>
 </p>
 
+No cost was incurred by this step either.
+
 ### Disabling Notifications
 
 There are no built-in functions to disable sending notifications, so a custom function was added to FlutterFlow, which was written in Dart. The function creates an instance of the Firebase Cloud Messaging object and deletes the FCM token.
