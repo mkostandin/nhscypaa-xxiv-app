@@ -14,9 +14,7 @@ To send a notification, a user must be authenticated and logged in. These users 
 
 A workflow was created that used a cron scheduler, some basic javascript in a custom node, and a switch node with many cases.
 
-```
-* /10 6 4 *
-```
+` * /10 6 4 * `
 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/buildship-notifications-cron.png" style="display:block;margin:auto;" alt="Buildship Diagram" width="50%"/>
