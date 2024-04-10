@@ -15,7 +15,7 @@ A collaborative map of YPAA events throughout New England
 -  Add to the Growing NECYVERSE
 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscypaa-xxiv-app.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="60%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscypaa-xxiv-final-app.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="60%"/>
 </p>
 
 <a href="https://www.bring-necypaa-to-nh.org" target="_blank">Live Demo</a> <br>
