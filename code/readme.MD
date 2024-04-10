@@ -16,7 +16,7 @@ A workflow was created that used a cron scheduler, some basic javascript in a cu
 
 The cron scheduler took the following form ` * /10 6 4 * ` which set up an event to happen every 10 minutes on April 6th after that the workflow would be disabled.
 
-A custom Javascript node was made to takes in an environment variable from the workflow, increment it, and then output it back as an environment variable.
+A custom Javascript node was made that takes in an environment variable from the workflow, increments it, and then outputs it back as an environment variable.
 
 ``` javascript
 export default async ({iterator}) => {
