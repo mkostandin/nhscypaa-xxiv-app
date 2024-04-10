@@ -14,7 +14,7 @@ To send a notification, a user must be authenticated and logged in. These users 
 
 A workflow was created that used a cron scheduler, some basic javascript in a custom node, and a switch node with many cases.
 
-The cron scheduler took the following form ` * /10 8 6 4 * `, which set up an event to happen every 10 minutes after 8 AM on April 6th. After that, the workflow would be disabled.
+The cron scheduler took the following form ` * /10 8 6 4 * `, which set up an event to happen every 10 minutes after 8 AM on April 6th. After 10 PM, the workflow would be disabled.
 
 A custom Javascript node was made that takes in an environment variable from the workflow, increments it, and then outputs it back as an environment variable.
 
