@@ -4,7 +4,7 @@ Many configurations had to be made to enable push notifications in the app. Spec
 
 ### Firebase
 
-To send a notification, a user must be authenticated and logged in. These users would be primarily concerned with their privacy, so Anonymous login in Firebase was used. The users would opt-in in the settings page by toggling a slider which would log them in. No cost was incurred by this step.
+To send a notification, a user must be authenticated and logged in. These users would be primarily concerned with their privacy, so Anonymous login in Firebase was used. The user would not be tracked, and data would not be linked to their identity, but they would still be authenticated. The users would opt-in in the settings page by toggling a slider which would log them in. No cost was incurred by this step.
 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/anon-login-firebase.png" style="display:block;margin:auto;" alt="Anonymous Login" width="50%"/>
