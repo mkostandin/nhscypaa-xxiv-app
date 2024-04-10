@@ -9,7 +9,7 @@ Get the NHSCYPAA XXIV App!
 - Get on-the-hour schedule notifications
 - Chat with other YPAA directly in the app
 - Explore NHSCYPAA
-- - Program
+  - Program
   - Hotel
   - Workshops
   - Panels
