@@ -4,18 +4,16 @@
 A conference app with chat and schedule notifications
 
 ## Description
-A collaborative map of YPAA events throughout New England
+Get the NHSCYPAA XXIV App!
 
-- Find Events and Conferences
-
-- Join Committees
-
-- Explore YPAA Meetings
-
--  Add to the Growing NECYVERSE
+*Get on-the-hour schedule notifications
+*Chat with other YPAA directly in the app
+*Explore NHSCYPAA
+*Program *Hotel
+*Workshops *Panels
 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="60%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="40%"/>
 </p>
 
 <a href="https://www.bring-necypaa-to-nh.org" target="_blank">Live Demo</a> <br>
