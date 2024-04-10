@@ -1,6 +1,6 @@
 ## Push Notifications
 
-Many configurations had to be made to enable push notifications in the app. Special permissions needed to be granted to the app identifiers, bundles, and other components in each of the App Store and Google Play Store. A request would need to be sent to the user.
+Many configurations had to be made to enable push notifications in the app. Special permissions needed to be granted to the app identifiers, bundles, and other components in each the App Store and Google Play Store. A request would need to be sent to the user.
 
 ### Firebase
 
@@ -35,3 +35,19 @@ A switch node was made using a csv file of the schedule where 85 cases broke up 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/cloud-message-example-firestore.png" style="display:block;margin:auto;" alt="Cloud Message Example" width="50%"/>
 </p>
+
+### Disabling Notifications
+
+There are no built-in functions to disable sending notifications, so a custom function was added to FlutterFlow, which was written in Dart. The function creates an instance of the Firebase Cloud Messaging object and deletes the FCM token.
+
+``` dart
+import 'package:firebase_messaging/firebase_messaging.dart';
+
+Future deactivateNotifications() async {
+
+  if (!(FFAppState().showNotifications)) {
+    await Future.delayed(Duration(seconds: 2));
+    FirebaseMessaging.instance.deleteToken();
+  }
+}
+```
