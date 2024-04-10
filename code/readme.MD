@@ -14,8 +14,18 @@ To send a notification, a user must be authenticated and logged in. These users 
 
 A workflow was created that used a cron scheduler, some basic javascript in a custom node, and a switch node with many cases.
 
-` * /10 6 4 * `
+The cron scheduler took the following form ` * /10 6 4 * ` which set up an event to happen every 10 minutes on April 6th after that the workflow would be disabled.
 
+A custom Javascript node simply took in an enviroment variable from the workflow incrememted it and then output it back as an enviroment variable.
+
+``` javascript
+export default async ({iterator}) => {
+  iterator++;
+  
+return iterator;
+  
+}
+```
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/buildship-notifications-cron.png" style="display:block;margin:auto;" alt="Buildship Diagram" width="50%"/>
 </p>
