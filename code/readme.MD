@@ -26,7 +26,7 @@ return iterator;
   
 }
 ```
-A switch node was made using a csv file of the schedule where 85 cases broke up the time when users would give their permission to receive notifications. Each time the event occured the iterator was incremented and used to select the switch case which contained the FlutterFlow Push notification node.
+A switch node was made using a csv file of the schedule where 85 cases broke up the time when users would give their permission to receive notifications. Each time the event occurred, the iterator was incremented and used to select the switch case which contained the FlutterFlow Push notification node.
 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/buildship-notifications-cron.png" style="display:block;margin:auto;" alt="Buildship Diagram" width="50%"/>
