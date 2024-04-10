@@ -21,10 +21,11 @@ Get the NHSCYPAA XXIV App!
 <a href="https://www.youtube.com/watch?v=-JZpr1r3hI8" target="_blank">Private Release Trailer</a>
 ## Features
 
-- Cross-platform
-- User Submitted Content
-- 3D Map
-- Video
+- Anonymous Chat
+- Anonymous Login
+- Push Notifications
+- PDF Viewer
+- Animation
 
 
 ## 🔗 Store Links
@@ -33,12 +34,13 @@ Get the NHSCYPAA XXIV App!
 
 ## Tech Stack
 
-- Google Maps Javascript API
+- FlutterFlow
+- Flutter
+- Dart
+- Firebase
+- AWS Amplify
 - Javascript
-- Express.js
-- Node.js
-- AWS Cloudfront
-- Cloudinary
+- Minnit Chat
 
 ## Related
 
