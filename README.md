@@ -1,4 +1,3 @@
-
 # NHSCYPAA XXIV
 
 A conference app with chat and schedule notifications
