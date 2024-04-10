@@ -1,0 +1,11 @@
+#topBar {
+  display: none;
+}
+
+.minnit-chat-msg:hover .msg-dots, .minnit-chat-msg:hover .msg-react-add, .message-bubble .minnit-chat-msg:hover .msg-dots, .message-bubble .minnit-chat-msg:hover .msg-react-add {
+  display: none;
+}
+
+.msgName {
+  pointer-events: none;
+}
