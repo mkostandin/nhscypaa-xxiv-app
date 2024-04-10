@@ -56,7 +56,7 @@ Future deactivateNotifications() async {
 
 ## Anonymous Chat
 
-A webview was created for the chat tab of the app. To achieve the best results with embedding Minnit Chat into the app, a web page was hosted on AWS Amplify containing an iframe. There was some SSL certificate problems with going directly from Minnit Chat URL to a webview in the app so AWS hosted certificate did the trick.  Custom CSS was added to Minnit Chat to disable users being able to access anything but making a nickname and using chat.
+A webview was created for the chat tab of the app. To achieve the best results with embedding Minnit Chat into the app, a web page was hosted on AWS Amplify containing an iframe. There was some SSL certificate problems with going directly from Minnit Chat URL to a webview in the app so AWS hosted certificate did the trick.  Custom CSS was added to Minnit Chat to disable users being able to access anything but making a nickname and using chat with minimal features to help with moderation and safety concerns.
 
 ``` CSS
 #topBar {
