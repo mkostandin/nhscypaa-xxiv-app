@@ -1,6 +1,6 @@
 # NHSCYPAA XXIV
 
-A conference app with chat and schedule notifications
+A conference app with anonymous chat and schedule notifications
 
 ## Description
 Get the NHSCYPAA XXIV App!
