@@ -14,7 +14,7 @@ Get the NHSCYPAA XXIV App!
   - Panels
 
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="45"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/nhscy-app-final.gif" style="display:block;margin:auto;" alt="NECYVERSE" width="45%"/>
 </p>
 
 <a href="https://www.youtube.com/watch?v=-JZpr1r3hI8" target="_blank">Private Release Trailer</a>
