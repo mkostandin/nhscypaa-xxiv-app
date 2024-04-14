@@ -74,8 +74,6 @@ A webview was created for the chat tab of the app. To achieve the best results w
 
 ## Reception
 
-## Reception
-
 The app was very well received and was installed by over 150 users.
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/installs.png" style="display:block;margin:auto;" alt="Installs" width="50%"/>
